@@ -1,0 +1,3 @@
+PYLUX SCRIPT 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Version9999/Pylux_Multigame/refs/heads/main/Pyluxx"))()
